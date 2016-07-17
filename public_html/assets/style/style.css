@@ -1,0 +1,29 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Dec 6, 2015, 7:46:20 AM
+    Author     : runner
+*/
+
+body {
+    font-family: Monospace;
+    background-color: #f0f0f0;
+    margin: 0px;
+    overflow: hidden;
+}
+
+#container {
+    width:100%; 
+    height:100%; 
+    position:absolute;
+}
+
+#help {
+    position:absolute;
+    bottom: 10px;
+    left: 10px;
+    font-size: 10px;
+}
